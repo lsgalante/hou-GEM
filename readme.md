@@ -1,3 +1,3 @@
 GEM - General Export Methods
 
-Tools for translating digital files to real matter
+Tools for getting things out of the computer
