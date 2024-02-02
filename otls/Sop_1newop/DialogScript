@@ -1,0 +1,6 @@
+# Default dialog script for newop
+{
+    name	newop
+    script	newop
+    label	"New Asset"
+}
